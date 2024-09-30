@@ -1,0 +1,77 @@
+{
+  "Header": {
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact",
+    "brand": "Brands"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Welcome to Suter International",
+      "subtitle": "Innovating the Future of Food Production.",
+      "description": "Combining generations of expertise with cutting-edge technology, we deliver superior food products worldwide—crafted with quality, sustainability, and excellence in mind.",
+      "cta": "Explore Our Products"
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "We are a company specialized in food manufacturing, working with years of experience and modern technology to provide high-quality products that meet our customers' needs.",
+      "mission": {
+        "title": "Company Overview",
+        "description": "Our company is distinguished by its inveterate history in the field of trade and industry, which had built on scientific and functional knowledge, and experiences extending along of generations depending on the best machines and modern technology in producing foodstuffs in the world."
+      },
+      "legacy": {
+        "title": "Mission",
+        "description": "To meet the world wishes and needs through innovating luxurious foodstuffs in special flavor and competitive prices For foodstuff industry and trade."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "To be one of the pioneer companies which combines between scientific and functional experiences, advanced technology, by the highest levels of quality, skillfulness and innovation to produce superior foodstuffs by establishing series of factories in many countries in the world, By God willing."
+      }
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "Our company differentiates by its inveterate history in the field of trade and industry, which had built on scientific and functional knowledge, and experiences extending along of generations depending on the best machines and modern technology in producing foodstuffs in the world.",
+      "cta": "Get in Touch"
+    }
+  },
+  "Products": {
+    "title": "Our Products",
+    "searchPlaceholder": "Search products...",
+    "sort_by_name": "Sort by Name",
+    "sort_by_price": "Sort by Price",
+    "get_product": "Get product",
+    "all": "All",
+    "of": "of"
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "sendMessage": "Send Message",
+    "location": "Our Locations",
+    "contactInformation": "Contact Information",
+    "suter_address": "Aydınlar Mah . 03043 Noku Cad. No.6 ŞEHİTKAMİL/GAZİANTEP TURKEY",
+    "suter_phone1": "+905355446600",
+    "suter_email": "info@suterint.com",
+
+    "roza_address": "AKTOPRAK SB MAH. 1 NOLU CAD. NO: 16 SEHITKAMIL/GAZIANTEP TURKEY",
+    "roza_phone1": "+905355446600",
+    "roza_email": "info@rozapark.com"
+  },
+  "Brands": {
+    "visitOurPage": "Visit Our Page"
+  },
+  "Footer": {
+    "title": "Suter International",
+    "description": "We are a company specialized in food manufacturing, working with years of experience and modern technology to provide high-quality products that meet our customers' needs.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact",
+    "brand": "Brands",
+    "connectWithUs": "Connect With Us",
+    "copyright": "All rights reserved"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "contact": "İletişim",
+    "brand": "Markalar"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Suter International'a Hoş Geldiniz",
+      "subtitle": "Gıda Üretiminin Geleceğini Yeniliyoruz.",
+      "description": "Nesiller boyu süren uzmanlığı en son teknolojiyle birleştirerek, dünya çapında kalite, sürdürülebilirlik ve mükemmellik göz önünde bulundurularak üretilmiş üstün gıda ürünleri sunuyoruz.",
+      "cta": "Ürünlerimizi Keşfedin"
+    },
+    "whoWeAre": {
+      "title": "HAKKIMIZDA",
+      "description": "Firmamız; dünyada gıda ürünleri üretimi yapan en iyi makine ve modern teknolojiyle nesillerden süre gelen uzmanlık, bilimsel ve pratik deneyim üzeine kurulan ticaret ve sanayi alanında köklü geçmişe sahiptir.",
+      "mission": {
+        "title": "Şirket Genel Bakışı",
+        "description": "Firmamız; dünyada gıda ürünleri üretimi yapan en iyi makine ve modern teknolojiyle nesillerden süre gelen uzmanlık, bilimsel ve pratik deneyim üzeine kurulan ticaret ve sanayi alanında köklü geçmişe sahiptir."
+      },
+      "legacy": {
+        "title": "MİSYON",
+        "description": "Misyonumuz; Rekabetçi fiyatlarla seçkin aromalı en nefis gıda ürünlerini elde ederek dünyanın arzu ve ihtiyaçlarını karşılamak."
+      },
+      "vision": {
+        "title": "VİZYON",
+        "description": "Vizyonumuz; Çalışma deneyimi, bilimsel uzmanlığı ve ileri teknolojiyi bir araya getiren birçok ülkede fabrikalar zinciri kurarak en nefis gıda ürünlerini sunan, Allah'ın izniyle öncü firmalardan olmak."
+      }
+    },
+    "aboutUs": {
+      "title": "Hakkımızda",
+      "description": "Şirketimiz, bilimsel ve işlevsel bilgi üzerine inşa edilmiş, nesiller boyu süren deneyimlere dayanan, dünyadaki en iyi makineler ve modern teknolojiye bağlı olarak gıda maddeleri üretiminde ticaret ve sanayi alanındaki köklü geçmişiyle farklılaşıyor.",
+      "cta": "İletişime Geçin"
+    }
+  },
+  "Products": {
+    "title": "Ürünlerimiz",
+    "searchPlaceholder": "Ürünleri ara...",
+    "sort_by_name": "İsme Göre Sırala",
+    "sort_by_price": "Fiyata Göre Sırala",
+    "get_product": "Ürünü Al",
+    "all": "Tümü",
+    "of": "den"
+  },
+
+  "Contact": {
+    "title": "Bize Ulaşın",
+    "name": "İsim",
+    "email": "E-posta",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "sendMessage": "Mesaj Gönder",
+    "location": "Konumlarımız",
+    "contactInformation": "İletişim Bilgileri",
+
+    "suter_address": "Aydınlar Mah. 03043 Noku Cad. No.6 Şehitkamil / Gaziantep TÜRKİYE",
+    "suter_phone1": "+905355446600",
+    "suter_email": "info@suterint.com",
+
+    "roza_address": "Aktoprak SB Mah. 1 Nolu Cad. No: 16 Şehitkamil / Gaziantep TÜRKİYE",
+    "roza_phone1": "+905355446600",
+    "roza_email": "info@rozapark.com"
+  },
+  "Brands": {
+    "visitOurPage": "Sayfamızı Ziyaret Et"
+  },
+  "Footer": {
+    "title": "Suter International",
+    "description": "Gıda üretimi konusunda uzmanlaşmış bir şirkettir. Yıllar boyu deneyimleri ve modern teknolojileri bir araya getirerek, müşterilerin ihtiyaçlarını karşılamak için yüksek kaliteli ürünler sunuyor.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "contact": "İletişim",
+    "brand": "Markalar",
+    "connectWithUs": "Bize Ulaşın",
+    "copyright": "Tüm hakları saklıdır"
+  }
+}
